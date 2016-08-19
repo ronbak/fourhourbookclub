@@ -1,0 +1,15 @@
+---
+layout: post-wide
+uid: item187
+title: "Slow Burn"
+worktype: "Development"
+date: 2015-12-09 01:01:01
+categories: project
+image-url: 41s-Nk5XxdL._SY291_BO1,204,203,200_QL40_.jpg
+item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSlow-Burn-Faster-Exercising-Slower%2Fdp%2F0062736744%2F
+description: "Rick Rubin on Cultivating World-Class Artists (Jay Z, Johnny Cash, etc.), Losing 100+ Pounds, and Breaking Down The Complex"
+---
+<a href="http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSlow-Burn-Faster-Exercising-Slower%2Fdp%2F0062736744%2F" target="blank"><img src="../../../../img/thumbs/41s-Nk5XxdL._SY291_BO1,204,203,200_QL40_.jpg" class="prod-img"></a>
+<h2>Slow Burn</h2>
+<p><a href="http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSlow-Burn-Faster-Exercising-Slower%2Fdp%2F0062736744%2F" target="blank">Get it on Amazon</a><p>
+<p>Mentioned in: <a href="http://fourhourworkweek.com/2015/05/15/rick-rubin/" target="blank">Rick Rubin on Cultivating World-Class Artists (Jay Z, Johnny Cash, etc.), Losing 100+ Pounds, and Breaking Down The Complex</a></p>

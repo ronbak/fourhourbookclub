@@ -1,0 +1,15 @@
+---
+layout: post-wide
+uid: item132
+title: "Memento"
+worktype: "Development"
+date: 2016-02-02 01:01:01
+categories: project
+image-url: book-cover-blank.jpg
+item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMemento-Guy-Pearce%2Fdp%2FB004YRSBTW%2F
+description: "How to Build a World-Class Network in Record Time"
+---
+<a href="http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMemento-Guy-Pearce%2Fdp%2FB004YRSBTW%2F" target="blank"><img src="../../../../img/thumbs/book-cover-blank.jpg" class="prod-img"></a>
+<h2>Memento</h2>
+<p><a href="http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMemento-Guy-Pearce%2Fdp%2FB004YRSBTW%2F" target="blank">Get it on Amazon</a><p>
+<p>Mentioned in: <a href="http://fourhourworkweek.com/2015/08/26/how-to-build-a-world-class-network-in-record-time/" target="blank">How to Build a World-Class Network in Record Time</a></p>

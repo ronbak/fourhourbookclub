@@ -1,0 +1,15 @@
+---
+layout: post-wide
+uid: item68
+title: "Fiasco"
+worktype: "Development"
+date: 2016-04-06 01:01:01
+categories: project
+image-url: 51rr3-rmyCL._SY445_QL70_.jpg
+item-url: Loading...
+description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity"
+---
+<a href="Loading..." target="blank"><img src="../../../../img/thumbs/51rr3-rmyCL._SY445_QL70_.jpg" class="prod-img"></a>
+<h2>Fiasco</h2>
+<p><a href="Loading..." target="blank">Get it on Amazon</a><p>
+<p>Mentioned in: <a href="http://fourhourworkweek.com/2014/12/01/bryan-callen/" target="blank">Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity</a></p>

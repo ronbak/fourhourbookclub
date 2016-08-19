@@ -1,0 +1,6 @@
+name: 
+description:
+author: Ed Shelley
+analytics:
+exclude: [ _design, README ]
+baseurl: "/"

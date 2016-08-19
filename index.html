@@ -1,0 +1,27 @@
+---
+layout: default
+title: Books from the Tim Ferriss Show
+---
+
+<ul class="projects clearfix">
+{% for post in site.categories.project %}
+  <li>
+    <div class="project">
+      
+    {% if post.image-url == "book-cover-blank.jpg"%}
+      <a class="cover-noimage" href="{{ post.url }}">
+    {% else %}
+      <a class="cover" href="{{ post.url }}">
+    {% endif %}
+        <div class="project-details">
+          <span>
+            {{ post.title }}
+          </span>
+        </div>
+      </a>
+        <img class="thumb" src="img/thumbs/{{ post.image-url }}" />
+      <div class="aspect-two-one"></div>
+    </div>
+  </li>
+{% endfor %}
+</ul>
