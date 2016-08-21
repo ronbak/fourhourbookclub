@@ -4,7 +4,7 @@ uid: item130
 title: "Mead composition notebooks"
 worktype: "Development"
 date: 2016-02-04 01:01:01
-categories: project
+categories: object
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMead-Composition-Book-pack-2%2Fdp%2FB002ZZ4FPY%2F
 description: "Hit Filmmaker Jon Favreau’s Techniques and Routines"

@@ -4,7 +4,7 @@ uid: item255
 title: "If This Is a Man"
 worktype: "Development"
 date: 2015-10-02 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FIf-This-Man-The-Truce%2Fdp%2F0349100136%2F
 description: "Are Psychedelic Drugs the Next Medical Breakthrough?"

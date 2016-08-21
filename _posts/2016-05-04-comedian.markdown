@@ -4,7 +4,7 @@ uid: item40
 title: "Comedian"
 worktype: "Development"
 date: 2016-05-04 01:01:01
-categories: project
+categories: movie
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FComedian-Jerry-Seinfeld%2Fdp%2FB00005JLW5%2F
 description: "Whitney Cummings on Turning Pain Into Creativity"

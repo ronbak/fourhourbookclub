@@ -4,7 +4,7 @@ uid: item270
 title: "The Art of the Start"
 worktype: "Development"
 date: 2015-09-17 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Art-Start-Time-Tested-Battle-Hardened%2Fdp%2F1591840562%2F
 description: "Matt Mullenweg on Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies"

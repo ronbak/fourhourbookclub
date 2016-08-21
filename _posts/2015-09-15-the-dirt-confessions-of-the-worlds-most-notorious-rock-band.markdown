@@ -4,7 +4,7 @@ uid: item272
 title: "The Dirt: Confessions of the World’s Most Notorious Rock Band"
 worktype: "Development"
 date: 2015-09-15 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Dirt-Confessions-Worlds-Notorious%2Fdp%2F0060989157%2F
 description: "The Tim Ferriss Podcast, Ep 15: Neil Strauss, Author of The Game"

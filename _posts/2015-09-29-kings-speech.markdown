@@ -4,7 +4,7 @@ uid: item258
 title: "King’s Speech"
 worktype: "Development"
 date: 2015-09-29 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Kings-Speech-Shooting-Newmarket%2Fdp%2F1557049815%2F
 description: "The Random Show, Episode 25 — Gut Bacteria, Meditation, Startups, and More"

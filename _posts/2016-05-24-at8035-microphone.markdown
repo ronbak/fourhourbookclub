@@ -4,7 +4,7 @@ uid: item20
 title: "AT8035 Microphone"
 worktype: "Development"
 date: 2016-05-24 01:01:01
-categories: project
+categories: object
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAudio-Technica-AT8035-Shotgun-Microphone%2Fdp%2FB000ZLOGCC%2F
 description: "Derek Sivers on Developing Confidence, Finding Happiness, and Saying “No” to Millions"

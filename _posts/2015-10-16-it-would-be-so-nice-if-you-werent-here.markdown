@@ -4,7 +4,7 @@ uid: item241
 title: "It Would Be So Nice If You Weren’t Here"
 worktype: "Development"
 date: 2015-10-16 01:01:01
-categories: project
+categories: book
 image-url: 41K9QCNGGEL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWould-Nice-You-Werent-Here%2Fdp%2F0679731342%2F
 description: "Hit Filmmaker Jon Favreau’s Techniques and Routines"

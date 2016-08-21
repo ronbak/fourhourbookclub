@@ -4,7 +4,7 @@ uid: item88
 title: "Dialogues"
 worktype: "Development"
 date: 2016-03-17 01:01:01
-categories: project
+categories: book
 image-url: 51p25QVO0VL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGreat-Dialogues-Plato%2Fdp%2F0451530853%2F
 description: "Nick Ganju on The Majesty of Ping Pong, Poker, and How to Write Hit Songs"

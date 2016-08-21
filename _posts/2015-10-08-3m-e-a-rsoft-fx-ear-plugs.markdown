@@ -4,7 +4,7 @@ uid: item249
 title: "3M E-A-Rsoft FX ear plugs"
 worktype: "Development"
 date: 2015-10-08 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2F3M-312-1261-Polyurethane-Uncorded-Earplugs%2Fdp%2FB00YZRTDKW%2F
 description: "5 Tools I Use For Faster And Better Sleep"

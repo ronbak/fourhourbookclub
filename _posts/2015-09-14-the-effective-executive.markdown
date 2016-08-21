@@ -4,7 +4,7 @@ uid: item273
 title: "The Effective Executive"
 worktype: "Development"
 date: 2015-09-14 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Effective-Executive-Definitive-Harperbusiness%2Fdp%2F0060833459%2F
 description: "Tim Ferriss and Kevin Rose Discuss Their Top 5 Must-Read Books"

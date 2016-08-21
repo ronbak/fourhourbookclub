@@ -4,7 +4,7 @@ uid: item66
 title: "Exploring the World of Lucid Dreaming"
 worktype: "Development"
 date: 2016-04-08 01:01:01
-categories: project
+categories: book
 image-url: 510aKu0sPTL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: Loading...
 description: "The Psychedelic Explorer’s Guide – Risks, Micro-Dosing, Ibogaine, and More"

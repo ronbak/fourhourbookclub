@@ -4,7 +4,7 @@ uid: item297
 title: "The Unbearable Lightness of Being"
 worktype: "Development"
 date: 2015-08-21 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Unbearable-Lightness-Being-Novel%2Fdp%2F0061148520%2F
 description: "Productivity Secrets of a Master DJ (Meditation, Morning Routines, and More)"

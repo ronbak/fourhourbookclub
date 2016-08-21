@@ -4,7 +4,7 @@ uid: item291
 title: "The Omnivore’s Dilemma"
 worktype: "Development"
 date: 2015-08-27 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Omnivores-Dilemma-Natural-History%2Fdp%2F0143038583%2F
 description: "Derek Sivers on Developing Confidence, Finding Happiness, and Saying “No” to Millions"

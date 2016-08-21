@@ -4,7 +4,7 @@ uid: item125
 title: "Man Who Sold the Moon by Robert A. Heinlein"
 worktype: "Development"
 date: 2016-02-09 01:01:01
-categories: project
+categories: book
 image-url: 51fdZDTuJvL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMan-Who-Sold-Moon-Orphans-ebook%2Fdp%2FB00ELJZZ24%2F
 description: "Tony Robbins and Peter Diamandis (XPRIZE) on the Magic of Thinking BIG"

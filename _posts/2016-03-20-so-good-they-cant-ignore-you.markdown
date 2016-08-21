@@ -4,7 +4,7 @@ uid: item85
 title: "So Good They Can’t Ignore You"
 worktype: "Development"
 date: 2016-03-20 01:01:01
-categories: project
+categories: book
 image-url: 51IjORMFLkL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGood-They-Cant-Ignore-You%2Fdp%2F1455509124%2F
 description: "The Tim Ferriss Show: Interview of Kevin Kelly, Co-Founder of WIRED, Polymath, Most Interesting Man In The World?"

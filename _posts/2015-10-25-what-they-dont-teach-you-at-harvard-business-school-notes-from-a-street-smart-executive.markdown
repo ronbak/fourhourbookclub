@@ -4,7 +4,7 @@ uid: item232
 title: "What They Don’t Teach You At Harvard Business School: Notes From A Street-Smart Executive"
 worktype: "Development"
 date: 2015-10-25 01:01:01
-categories: project
+categories: book
 image-url: 51G0tjN0OtL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWhat-Teach-Harvard-Business-School%2Fdp%2F0553345834%2F
 description: "Ramit Sethi on Persuasion and Turning a Blog Into a Multi-Million-Dollar Business"

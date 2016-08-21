@@ -4,7 +4,7 @@ uid: item286
 title: "The Moral Landscape"
 worktype: "Development"
 date: 2015-09-01 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Moral-Landscape-Science-Determine%2Fdp%2F143917122X%2F
 description: "Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read"

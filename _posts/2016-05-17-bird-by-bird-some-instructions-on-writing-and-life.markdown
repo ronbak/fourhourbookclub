@@ -4,7 +4,7 @@ uid: item27
 title: "Bird by Bird: Some Instructions on Writing and Life"
 worktype: "Development"
 date: 2016-05-17 01:01:01
-categories: project
+categories: book
 image-url: 41DTOzISUVL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FBird-Some-Instructions-Writing-Life%2Fdp%2F0385480016%2F
 description: "Matt Mullenweg on Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies"

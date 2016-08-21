@@ -4,7 +4,7 @@ uid: item210
 title: "As a Man Thinketh"
 worktype: "Development"
 date: 2015-11-16 01:01:01
-categories: project
+categories: book
 image-url: 51qdJm5-jOL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThinketh-Tarcher-Family-Inspirational-Library%2Fdp%2F1585425648%2F
 description: "The 5 Things I Did To Become a Better Investor"

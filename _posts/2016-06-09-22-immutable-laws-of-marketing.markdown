@@ -4,7 +4,7 @@ uid: item4
 title: "22 Immutable Laws of Marketing"
 worktype: "Development"
 date: 2016-06-09 01:01:01
-categories: project
+categories: book
 image-url: 51bymWkKusL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2F22-Immutable-Laws-Marketing-Explained-ebook%2Fdp%2FB000FC10HA%2F
 description: "Drunk Dialing Fans–Celebrating The 100th Podcast Episode!"

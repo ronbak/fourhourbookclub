@@ -4,7 +4,7 @@ uid: item202
 title: "Story"
 worktype: "Development"
 date: 2015-11-24 01:01:01
-categories: project
+categories: book
 image-url: 51c1Pf0fe7L._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FStory-Structure-Substance-Principles-Screenwriting-ebook%2Fdp%2FB0042FZVOY%2F
 description: "Rolf Potts on Travel Tactics, Creating Time Wealth, and Lateral Thinking"

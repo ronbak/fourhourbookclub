@@ -4,7 +4,7 @@ uid: item168
 title: "Refinery29: Style Stalking"
 worktype: "Development"
 date: 2015-12-28 01:01:01
-categories: project
+categories: book
 image-url: 51BQBl0wuNL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FRefinery29-Style-Stalking-Piera-Gelardi%2Fdp%2F0804185530%2F
 description: "The Random Show: Hating Tech, Hidden Japanese Gems, Sexual Awkwardness, and More"

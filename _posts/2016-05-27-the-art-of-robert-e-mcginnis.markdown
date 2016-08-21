@@ -4,7 +4,7 @@ uid: item17
 title: "The Art of Robert E. McGinnis"
 worktype: "Development"
 date: 2016-05-27 01:01:01
-categories: project
+categories: book
 image-url: 51%2BiBv%2BE9GL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FArt-Robert-E-McGinnis%2Fdp%2F1781162174%2F
 description: "The Random Show: Hating Tech, Hidden Japanese Gems, Sexual Awkwardness, and More"

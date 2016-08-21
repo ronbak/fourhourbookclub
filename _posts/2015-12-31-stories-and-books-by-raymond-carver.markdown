@@ -4,7 +4,7 @@ uid: item165
 title: "Stories and books by Raymond Carver"
 worktype: "Development"
 date: 2015-12-31 01:01:01
-categories: project
+categories: object
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FRaymond-Carver%2Fe%2FB000APVCS4%2F
 description: "The Tim Ferriss Show, Episode 18: James Altucher on How to Say “No”, Fail Better, and Build Businesses"

@@ -4,7 +4,7 @@ uid: item302
 title: "What I Learned Losing $1 Million"
 worktype: "Development"
 date: 2015-08-16 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FLearned-Million-Columbia-Business-Publishing%2Fdp%2F0231164688%2520
 description: "Optimizing Investing, Blood, Hormones, and Life (Podcast Double-Header: #63 and #65)"

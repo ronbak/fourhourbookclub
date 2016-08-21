@@ -4,7 +4,7 @@ uid: item102
 title: "Humiliation"
 worktype: "Development"
 date: 2016-03-03 01:01:01
-categories: project
+categories: book
 image-url: 41EYCSPc3eL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHumiliation-Essays-Social-Discomfort-Violence%2Fdp%2F0801481171%2F
 description: "Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read"

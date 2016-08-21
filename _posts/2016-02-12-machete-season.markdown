@@ -4,7 +4,7 @@ uid: item122
 title: "Machete Season"
 worktype: "Development"
 date: 2016-02-12 01:01:01
-categories: project
+categories: book
 image-url: 4151HVlJq2L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMachete-Season-Killers-Rwanda-Speak%2Fdp%2F0312425031%2F
 description: "Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read"

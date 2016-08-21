@@ -4,7 +4,7 @@ uid: item131
 title: "Meditations: A New Translation"
 worktype: "Development"
 date: 2016-02-03 01:01:01
-categories: project
+categories: book
 image-url: 41dbipeX%2BpL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMeditations-New-Translation-Marcus-Aurelius%2Fdp%2F0812968255%2F
 description: "The Person I Call Most for Startup Advice"

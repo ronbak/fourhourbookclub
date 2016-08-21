@@ -4,7 +4,7 @@ uid: item185
 title: "Show Your Work!"
 worktype: "Development"
 date: 2015-12-11 01:01:01
-categories: project
+categories: book
 image-url: 51N%2BBa1mYOL._SX342_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FShow-Your-Work-Creativity-Discovered-ebook%2Fdp%2FB00GU2RGGI%2F
 description: "Derek Sivers Reloaded – On Success Habits and Billionaires with Perfect Abs"

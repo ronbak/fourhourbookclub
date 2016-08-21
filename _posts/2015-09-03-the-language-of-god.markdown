@@ -4,7 +4,7 @@ uid: item284
 title: "The Language of God"
 worktype: "Development"
 date: 2015-09-03 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Language-God-Scientist-Presents%2Fdp%2F1416542744%2F
 description: "Dom D’Agostino on Fasting, Ketosis, and the End of Cancer"

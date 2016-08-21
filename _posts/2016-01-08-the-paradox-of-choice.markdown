@@ -4,7 +4,7 @@ uid: item157
 title: "The Paradox of Choice"
 worktype: "Development"
 date: 2016-01-08 01:01:01
-categories: project
+categories: book
 image-url: 412jfk0fhkL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FParadox-Choice-Why-More-Less%2Fdp%2F0060005696%2F
 description: "Brené Brown on Vulnerability and Home Run TED Talks"

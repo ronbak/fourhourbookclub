@@ -4,7 +4,7 @@ uid: item277
 title: "The Gibson Girl and Her America"
 worktype: "Development"
 date: 2015-09-10 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Gibson-Girl-Her-America%2Fdp%2F0486219860%2F
 description: "The Random Show: Hating Tech, Hidden Japanese Gems, Sexual Awkwardness, and More"

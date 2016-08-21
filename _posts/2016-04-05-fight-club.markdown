@@ -4,7 +4,7 @@ uid: item69
 title: "Fight Club"
 worktype: "Development"
 date: 2016-04-05 01:01:01
-categories: project
+categories: book
 image-url: 4193ACIRUUL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: Loading...
 description: "The Random Show, Episode 25 — Gut Bacteria, Meditation, Startups, and More"

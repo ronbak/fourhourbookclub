@@ -4,7 +4,7 @@ uid: item151
 title: "The One-Minute Manager"
 worktype: "Development"
 date: 2016-01-14 01:01:01
-categories: project
+categories: book
 image-url: 511mzN6iAXL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FOne-Minute-Manager-Kenneth-Blanchard%2Fdp%2F0688014291%2F
 description: "The Tim Ferriss Show, Episode 16: Joe De Sena on Grit, Endurance, and Building Empires"

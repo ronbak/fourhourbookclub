@@ -4,7 +4,7 @@ uid: item175
 title: "Scott Pilgrim vs The World"
 worktype: "Development"
 date: 2015-12-21 01:01:01
-categories: project
+categories: movie
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FScott-Pilgrim-World-Michael-Cera%2Fdp%2FB0041T52S6
 description: "Derek Sivers Reloaded – On Success Habits and Billionaires with Perfect Abs"

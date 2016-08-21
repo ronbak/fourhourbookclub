@@ -4,7 +4,7 @@ uid: item265
 title: "SOG Throwing Axes"
 worktype: "Development"
 date: 2015-09-22 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSOG-Specialty-Knives-F01TN-CP-2-75-Inch%2Fdp%2FB000PICTYC%2F
 description: "The Random Show: Hating Tech, Hidden Japanese Gems, Sexual Awkwardness, and More"

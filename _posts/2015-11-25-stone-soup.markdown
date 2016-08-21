@@ -4,7 +4,7 @@ uid: item201
 title: "Stone Soup"
 worktype: "Development"
 date: 2015-11-25 01:01:01
-categories: project
+categories: book
 image-url: 61OcUPuZYGL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FStone-Soup-Ann-Mcgovern%2Fdp%2F0590416022
 description: "How to Think Like Elon Musk and Jeff Bezos"

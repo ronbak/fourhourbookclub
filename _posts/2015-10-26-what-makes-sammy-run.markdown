@@ -4,7 +4,7 @@ uid: item231
 title: "What Makes Sammy Run"
 worktype: "Development"
 date: 2015-10-26 01:01:01
-categories: project
+categories: book
 image-url: 51Id2crnW1L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWhat-Makes-Sammy-Budd-Schulberg%2Fdp%2F0679734228%2F
 description: "The Tim Ferriss Show, Episode 10: Brian Koppelman, Co-writer/Producer of Rounders, The Illusionist, Ocean’s Thirteen"

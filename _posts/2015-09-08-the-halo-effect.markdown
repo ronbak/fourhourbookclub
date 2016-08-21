@@ -4,7 +4,7 @@ uid: item279
 title: "The Halo Effect"
 worktype: "Development"
 date: 2015-09-08 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Halo-Effect-Business-Delusions%2Fdp%2F1476784035%2F
 description: "Matt Mullenweg on Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies"

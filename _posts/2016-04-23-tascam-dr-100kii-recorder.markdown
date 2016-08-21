@@ -4,7 +4,7 @@ uid: item51
 title: "Tascam DR-100KII Recorder"
 worktype: "Development"
 date: 2016-04-23 01:01:01
-categories: project
+categories: object
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FDR-100mkII-2-Channel-Portable-Digital-Recorder%2Fdp%2FB006JVNTXO%2F
 description: "How to Create a Blockbuster Podcast"

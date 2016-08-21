@@ -4,7 +4,7 @@ uid: item177
 title: "Searching for Bobby Fischer: The Father of a Prodigy Observes the World of Chess"
 worktype: "Development"
 date: 2015-12-19 01:01:01
-categories: project
+categories: book
 image-url: 518YHDtZ3GL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSearching-Bobby-Fischer-Prodigy-Observes%2Fdp%2F0140230386%2F
 description: "The Tim Ferriss Show: Interview of Kevin Kelly, Co-Founder of WIRED, Polymath, Most Interesting Man In The World?"

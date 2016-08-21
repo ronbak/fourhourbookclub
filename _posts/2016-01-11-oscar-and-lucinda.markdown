@@ -4,7 +4,7 @@ uid: item154
 title: "Oscar and Lucinda"
 worktype: "Development"
 date: 2016-01-11 01:01:01
-categories: project
+categories: book
 image-url: 51LKxUwXumL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FOscar-Lucinda-Peter-Carey%2Fdp%2F0679777504%2F
 description: "Is It Time to Kill Sacred Cows In Your Relationship?"

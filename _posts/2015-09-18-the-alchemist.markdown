@@ -4,7 +4,7 @@ uid: item269
 title: "The Alchemist"
 worktype: "Development"
 date: 2015-09-18 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Alchemist-Paulo-Coelho%2Fdp%2F0061122416%2F
 description: "Brené Brown on Vulnerability and Home Run TED Talks"

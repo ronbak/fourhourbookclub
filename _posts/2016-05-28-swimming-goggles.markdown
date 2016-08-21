@@ -4,7 +4,7 @@ uid: item16
 title: "swimming goggles"
 worktype: "Development"
 date: 2016-05-28 01:01:01
-categories: project
+categories: fitness
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAqua-Sphere-Kaiman-Swimming-Goggles%2Fdp%2FB00HQL9AEI%2F
 description: "Brené Brown on Vulnerability and Home Run TED Talks"

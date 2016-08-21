@@ -4,7 +4,7 @@ uid: item287
 title: "The Morning Pages"
 worktype: "Development"
 date: 2015-08-31 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Artists-Morning-Pages-Journal%2Fdp%2F0874778867%2F
 description: "The Tim Ferriss Show, Episode 10: Brian Koppelman, Co-writer/Producer of Rounders, The Illusionist, Ocean’s Thirteen"

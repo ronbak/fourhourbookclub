@@ -4,7 +4,7 @@ uid: item259
 title: "Life Is Elsewhere"
 worktype: "Development"
 date: 2015-09-28 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FLife-Is-Elsewhere-Milan-Kundera%2Fdp%2F0060997028%2F
 description: "The Tim Ferriss Podcast, Ep 15: Neil Strauss, Author of The Game"

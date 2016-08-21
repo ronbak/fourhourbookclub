@@ -4,7 +4,7 @@ uid: item254
 title: "God is Not Great"
 worktype: "Development"
 date: 2015-10-03 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGod-Is-Not-Great-Everything%2Fdp%2F0446697966%2F
 description: "Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read"

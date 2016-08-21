@@ -4,7 +4,7 @@ uid: item45
 title: "Canned oysters"
 worktype: "Development"
 date: 2016-04-29 01:01:01
-categories: project
+categories: fitness
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FCrown-Prince-Natural-Oysters-3-Ounce%2Fdp%2FB00GJ0WW24%2F
 description: "Dom D’Agostino on Fasting, Ketosis, and the End of Cancer"

@@ -4,7 +4,7 @@ uid: item280
 title: "The Hard Thing About Hard Things"
 worktype: "Development"
 date: 2015-09-07 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Hard-Thing-About-Things-ebook%2Fdp%2FB00DQ845EA%2F
 description: "Matt Mullenweg on Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies"

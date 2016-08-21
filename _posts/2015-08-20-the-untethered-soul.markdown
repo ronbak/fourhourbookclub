@@ -4,7 +4,7 @@ uid: item298
 title: "The Untethered Soul"
 worktype: "Development"
 date: 2015-08-20 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Untethered-Soul-Journey-Yourself%2Fdp%2F1572245379%2F
 description: "Tara Brach on Meditation and Overcoming FOMO (Fear Of Missing Out)"

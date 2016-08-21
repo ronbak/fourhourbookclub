@@ -4,7 +4,7 @@ uid: item72
 title: "Food Rules"
 worktype: "Development"
 date: 2016-04-02 01:01:01
-categories: project
+categories: book
 image-url: 41sZnm7tgXL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FFood-Rules-An-Eaters-Manual%2Fdp%2F014311638X%2F
 description: "Derek Sivers on Developing Confidence, Finding Happiness, and Saying “No” to Millions"

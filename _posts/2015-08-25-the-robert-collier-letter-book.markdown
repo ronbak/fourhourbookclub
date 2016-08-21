@@ -4,7 +4,7 @@ uid: item293
 title: "The Robert Collier Letter Book"
 worktype: "Development"
 date: 2015-08-25 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Robert-Collier-Letter-Book%2Fdp%2F8087830679%2F
 description: "Ramit Sethi on Persuasion and Turning a Blog Into a Multi-Million-Dollar Business"

@@ -4,7 +4,7 @@ uid: item248
 title: "100 Years of Solitude"
 worktype: "Development"
 date: 2015-10-09 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FOne-Hundred-Years-Solitude-P-S%2Fdp%2F0060883286%2F
 description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity"

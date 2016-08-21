@@ -4,7 +4,7 @@ uid: item264
 title: "Screw Tape Letters"
 worktype: "Development"
 date: 2015-09-23 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Screwtape-Letters-C-Lewis%2Fdp%2F0060652934%2F
 description: "Dom D’Agostino on Fasting, Ketosis, and the End of Cancer"

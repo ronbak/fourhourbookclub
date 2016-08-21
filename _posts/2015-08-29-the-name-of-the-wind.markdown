@@ -4,7 +4,7 @@ uid: item289
 title: "The Name of the Wind"
 worktype: "Development"
 date: 2015-08-29 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Name-Wind-Kingkiller-Chronicle%2Fdp%2F0756404746%2F
 description: "Is It Time to Kill Sacred Cows In Your Relationship?"

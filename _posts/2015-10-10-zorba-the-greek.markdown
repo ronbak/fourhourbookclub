@@ -4,7 +4,7 @@ uid: item247
 title: "Zorba the Greek"
 worktype: "Development"
 date: 2015-10-10 01:01:01
-categories: project
+categories: book
 image-url: 51fYax85lPL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FZorba-Greek-Nikos-Kazantzakis%2Fdp%2F0684825546
 description: "The Person I Call Most for Startup Advice"

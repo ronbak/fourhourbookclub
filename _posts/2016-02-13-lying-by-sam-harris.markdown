@@ -4,7 +4,7 @@ uid: item121
 title: "Lying – by Sam Harris"
 worktype: "Development"
 date: 2016-02-13 01:01:01
-categories: project
+categories: book
 image-url: 31E4K3Es0iL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: Loading...
 description: "The Tim Ferriss Show, Episode 14: Sam Harris, PhD on Spirituality, Neuroscience, Meditation, and More"

@@ -4,7 +4,7 @@ uid: item126
 title: "Man on Wire"
 worktype: "Development"
 date: 2016-02-08 01:01:01
-categories: project
+categories: movie
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMan-Wire-James-Marsh%2Fdp%2FB001OSIV62%2F
 description: "The Random Show, Episode 25 — Gut Bacteria, Meditation, Startups, and More"

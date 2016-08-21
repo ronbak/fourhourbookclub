@@ -4,7 +4,7 @@ uid: item192
 title: "The Social Animal"
 worktype: "Development"
 date: 2015-12-04 01:01:01
-categories: project
+categories: book
 image-url: 51QxvVOjrhL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSocial-Animal-Elliot-Aronson%2Fdp%2F1429233419%2F
 description: "Ramit Sethi on Persuasion and Turning a Blog Into a Multi-Million-Dollar Business"

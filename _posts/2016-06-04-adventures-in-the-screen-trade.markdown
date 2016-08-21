@@ -4,7 +4,7 @@ uid: item9
 title: "Adventures in the Screen Trade"
 worktype: "Development"
 date: 2016-06-04 01:01:01
-categories: project
+categories: book
 image-url: 51j2315sx2L._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAdventures-Screen-Trade-William-Goldman-ebook%2Fdp%2FB007Z7UDF8%2F
 description: "Nick Ganju on The Majesty of Ping Pong, Poker, and How to Write Hit Songs"

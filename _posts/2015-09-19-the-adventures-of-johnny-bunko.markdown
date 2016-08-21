@@ -4,7 +4,7 @@ uid: item268
 title: "The Adventures of Johnny Bunko"
 worktype: "Development"
 date: 2015-09-19 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Adventures-Johnny-Bunko-Career%2Fdp%2F1594482918%2F
 description: "The Tim Ferriss Show: Interview of Kevin Kelly, Co-Founder of WIRED, Polymath, Most Interesting Man In The World?"

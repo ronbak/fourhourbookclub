@@ -4,7 +4,7 @@ uid: item176
 title: "Screenplay"
 worktype: "Development"
 date: 2015-12-20 01:01:01
-categories: project
+categories: book
 image-url: 516gUk4pX-L._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FScreenplay-Foundations-Screenwriting-Syd-Field-ebook%2Fdp%2FB000S1LAYG%2F
 description: "Hit Filmmaker Jon Favreau’s Techniques and Routines"

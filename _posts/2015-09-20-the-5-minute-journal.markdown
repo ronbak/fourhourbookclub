@@ -4,7 +4,7 @@ uid: item267
 title: "The 5-Minute Journal"
 worktype: "Development"
 date: 2015-09-20 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Five-Minute-Journal-Happier%2Fdp%2F0991846206%2F
 description: "What I’d Add To The 4-Hour Workweek for 2015 (And Much More)"

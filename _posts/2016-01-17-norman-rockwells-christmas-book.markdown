@@ -4,7 +4,7 @@ uid: item148
 title: "Norman Rockwell's Christmas Book"
 worktype: "Development"
 date: 2016-01-17 01:01:01
-categories: project
+categories: book
 image-url: 51ZYSQCX0XL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FNorman-Rockwells-Christmas-Molly-Rockwell%2Fdp%2F0810981211
 description: "The Random Show: Hating Tech, Hidden Japanese Gems, Sexual Awkwardness, and More"

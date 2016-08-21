@@ -4,7 +4,7 @@ uid: item164
 title: "Radical Acceptance"
 worktype: "Development"
 date: 2016-01-01 01:01:01
-categories: project
+categories: book
 image-url: 416XVNN6NRL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FRadical-Acceptance-Embracing-Heart-Buddha%2Fdp%2F0553380990%2F
 description: "Tara Brach on Meditation and Overcoming FOMO (Fear Of Missing Out)"

@@ -4,7 +4,7 @@ uid: item46
 title: "Daring Greatly"
 worktype: "Development"
 date: 2016-04-28 01:01:01
-categories: project
+categories: book
 image-url: 51CnRqFnS5L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FDaring-Greatly-Courage-Vulnerable-Transforms%2Fdp%2F1592408419%2F
 description: "Brené Brown on Vulnerability and Home Run TED Talks"

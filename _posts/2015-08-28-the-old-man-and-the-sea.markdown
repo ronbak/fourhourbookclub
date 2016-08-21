@@ -4,7 +4,7 @@ uid: item290
 title: "The Old Man and The Sea"
 worktype: "Development"
 date: 2015-08-28 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Old-Man-Sea%2Fdp%2F0684801221%2F
 description: "Are We Really 10% Human and 90% Bacteria? Exploring The Microbiome…"

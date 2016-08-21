@@ -4,7 +4,7 @@ uid: item65
 title: "The Experience of Insight – by Joseph Goldstein"
 worktype: "Development"
 date: 2016-04-09 01:01:01
-categories: project
+categories: book
 image-url: 41fdlX%2Bm6lL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FExperience-Insight-Buddhist-Meditation-Shambhala%2Fdp%2F0877732264%2F
 description: "The Tim Ferriss Show, Episode 14: Sam Harris, PhD on Spirituality, Neuroscience, Meditation, and More"

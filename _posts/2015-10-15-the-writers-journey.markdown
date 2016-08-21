@@ -4,7 +4,7 @@ uid: item242
 title: "The Writer’s Journey"
 worktype: "Development"
 date: 2015-10-15 01:01:01
-categories: project
+categories: book
 image-url: 51473OvY5zL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWriters-Journey-Mythic-Structure-3rd%2Fdp%2F193290736X%2F
 description: "Hit Filmmaker Jon Favreau’s Techniques and Routines"

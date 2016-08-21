@@ -4,7 +4,7 @@ uid: item227
 title: "Wall Street"
 worktype: "Development"
 date: 2015-10-30 01:01:01
-categories: project
+categories: movie
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWall-Street-Charlie-Sheen%2Fdp%2FB00003CXDB%2F
 description: "Rolf Potts on Travel Tactics, Creating Time Wealth, and Lateral Thinking"

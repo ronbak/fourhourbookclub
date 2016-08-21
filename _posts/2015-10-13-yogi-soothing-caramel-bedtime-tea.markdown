@@ -4,7 +4,7 @@ uid: item244
 title: "Yogi “Soothing Caramel Bedtime” tea"
 worktype: "Development"
 date: 2015-10-13 01:01:01
-categories: project
+categories: fitness
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FYogi-Soothing-Caramel-Bedtime-Bags%2Fdp%2FB00511MLLO%2F
 description: "5 Tools I Use For Faster And Better Sleep"

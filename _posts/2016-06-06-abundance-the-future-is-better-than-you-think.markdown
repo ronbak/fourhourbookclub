@@ -4,7 +4,7 @@ uid: item7
 title: "Abundance: The Future Is Better Than You Think"
 worktype: "Development"
 date: 2016-06-06 01:01:01
-categories: project
+categories: book
 image-url: 51h9dTy9r8L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAbundance-Future-Better-Than-Think%2Fdp%2F145161683X%2F
 description: "How to Think Like Elon Musk and Jeff Bezos"

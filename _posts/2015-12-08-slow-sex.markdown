@@ -4,7 +4,7 @@ uid: item188
 title: "Slow Sex"
 worktype: "Development"
 date: 2015-12-08 01:01:01
-categories: project
+categories: book
 image-url: 41jEOw9VFdL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSlow-Sex-Female-Orgasm-Paperback%2Fdp%2FB00FKY8LSO%2F
 description: "Tony Robbins and Peter Diamandis (XPRIZE) on the Magic of Thinking BIG"

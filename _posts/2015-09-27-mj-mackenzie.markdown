@@ -4,7 +4,7 @@ uid: item260
 title: "MJ mackenzie"
 worktype: "Development"
 date: 2015-09-27 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2Fdp%2FB00KITMX4E%2F
 description: "How to Think Like Elon Musk and Jeff Bezos"

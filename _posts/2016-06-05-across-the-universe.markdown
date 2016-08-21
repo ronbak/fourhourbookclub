@@ -4,7 +4,7 @@ uid: item8
 title: "Across the Universe"
 worktype: "Development"
 date: 2016-06-05 01:01:01
-categories: project
+categories: book
 image-url: 5144sGuT5fL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAcross-Universe-Original-Singers-Vocal%2Fdp%2F1423460480%2F
 description: "Nick Ganju on The Majesty of Ping Pong, Poker, and How to Write Hit Songs"

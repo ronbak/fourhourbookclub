@@ -4,7 +4,7 @@ uid: item61
 title: "The Essential Scratch and Sniff Guide to Becoming a Wine Expert"
 worktype: "Development"
 date: 2016-04-13 01:01:01
-categories: project
+categories: book
 image-url: 51wxTH5DSnL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FEssential-Scratch-Sniff-Becoming-Expert%2Fdp%2F0544005031%2F
 description: "The Tattooed Heretic of Wine and Whiskey, Richard Betts"

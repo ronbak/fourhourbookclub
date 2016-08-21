@@ -4,7 +4,7 @@ uid: item144
 title: "Musashi: An Epic Novel of the Samurai Era"
 worktype: "Development"
 date: 2016-01-21 01:01:01
-categories: project
+categories: book
 image-url: 51HImP4tNRL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMusashi-Epic-Novel-Samurai-Era%2Fdp%2F156836427X
 description: "The Random Show: Hating Tech, Hidden Japanese Gems, Sexual Awkwardness, and More"

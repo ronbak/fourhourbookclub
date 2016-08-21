@@ -4,7 +4,7 @@ uid: item94
 title: "History of the Peloponnesian War"
 worktype: "Development"
 date: 2016-03-11 01:01:01
-categories: project
+categories: book
 image-url: 510Rl%2BAK7dL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHistory-Peloponnesian-War-Thucydides%2Fdp%2F0140440399%2F
 description: "Matt Mullenweg on Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies"

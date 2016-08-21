@@ -4,7 +4,7 @@ uid: item218
 title: "Touching the Rock"
 worktype: "Development"
 date: 2015-11-08 01:01:01
-categories: project
+categories: book
 image-url: 51i5Ojp1-qL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FTouching-Rock-An-Experience-Blindness%2Fdp%2F067973547X%2F
 description: "Ed Cooke, Grandmaster of Memory, on Mental Performance, Imagination, and Productive Mischief"

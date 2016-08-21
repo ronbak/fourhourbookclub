@@ -4,7 +4,7 @@ uid: item133
 title: "Million Dollar Consulting"
 worktype: "Development"
 date: 2016-02-01 01:01:01
-categories: project
+categories: book
 image-url: 51mbyIwTLIL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMillion-Dollar-Consulting-Alan-Weiss%2Fdp%2F0071622101%2F
 description: "How Facebook’s #30 Employee Quickly Built 4 Businesses and Gained 40 Pounds with Weight Training"

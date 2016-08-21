@@ -4,7 +4,7 @@ uid: item35
 title: "Casablanca"
 worktype: "Development"
 date: 2016-05-09 01:01:01
-categories: project
+categories: book
 image-url: 51Vv7JX03BL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FCasablanca-Screenplay-Editors-Digital-Publishing-ebook%2Fdp%2FB009HS5CFY%2F
 description: "The Random Show, Episode 25 — Gut Bacteria, Meditation, Startups, and More"

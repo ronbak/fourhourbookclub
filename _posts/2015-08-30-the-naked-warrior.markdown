@@ -4,7 +4,7 @@ uid: item288
 title: "The Naked Warrior"
 worktype: "Development"
 date: 2015-08-30 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Naked-Warrior-Pavel-Tsatsouline%2Fdp%2F0938045555%2F
 description: "Pavel Tsatsouline on the Science of Strength and the Art of Physical Performance"

@@ -4,7 +4,7 @@ uid: item67
 title: "Fear and Loathing in Las Vegas"
 worktype: "Development"
 date: 2016-04-07 01:01:01
-categories: project
+categories: book
 image-url: 510HmAq46sL._SY445_QL70_.jpg
 item-url: Loading...
 description: "The Random Show, Episode 25 — Gut Bacteria, Meditation, Startups, and More"

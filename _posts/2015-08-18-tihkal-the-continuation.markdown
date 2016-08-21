@@ -4,7 +4,7 @@ uid: item300
 title: "Tihkal: The Continuation"
 worktype: "Development"
 date: 2015-08-18 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FTihkal-The-Continuation-Alexander-Shulgin%2Fdp%2F0963009699
 description: "The Psychedelic Explorer’s Guide – Risks, Micro-Dosing, Ibogaine, and More"

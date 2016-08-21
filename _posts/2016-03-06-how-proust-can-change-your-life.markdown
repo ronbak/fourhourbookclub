@@ -4,7 +4,7 @@ uid: item99
 title: "How Proust Can Change Your Life"
 worktype: "Development"
 date: 2016-03-06 01:01:01
-categories: project
+categories: book
 image-url: 61sI0KI5RYL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHow-Proust-Change-Your-Life%2Fdp%2F0679779159%2F
 description: "How Philosophy Can Change Your Life, Alain de Botton"

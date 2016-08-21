@@ -4,7 +4,7 @@ uid: item197
 title: "SPIN Selling"
 worktype: "Development"
 date: 2015-11-29 01:01:01
-categories: project
+categories: book
 image-url: 51ay1tLmaHL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: Loading...
 description: "How One Computer Hacker Conquered Online Dating, Opens Locked Cars, and More"

@@ -4,7 +4,7 @@ uid: item33
 title: "California"
 worktype: "Development"
 date: 2016-05-11 01:01:01
-categories: project
+categories: book
 image-url: 51qd05UB12L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FCalifornia-History-Modern-Library-Chronicles%2Fdp%2F081297753X%2F
 description: "Tim Ferriss Interviews Arnold Schwarzenegger on Psychological Warfare (And Much More)"

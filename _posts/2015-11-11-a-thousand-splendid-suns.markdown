@@ -4,7 +4,7 @@ uid: item215
 title: "A Thousand Splendid Suns"
 worktype: "Development"
 date: 2015-11-11 01:01:01
-categories: project
+categories: book
 image-url: 51752rjZGJL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThousand-Splendid-Suns-Khaled-Hosseini%2Fdp%2F159448385X%2F%25E2%2580%25A0
 description: "The Tim Ferriss Show, Episode 18: James Altucher on How to Say “No”, Fail Better, and Build Businesses"

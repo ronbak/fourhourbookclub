@@ -4,7 +4,7 @@ uid: item116
 title: "Leaves of Grass"
 worktype: "Development"
 date: 2016-02-18 01:01:01
-categories: project
+categories: book
 image-url: 51yMo8L99dL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FLeaves-Grass-Walt-Whitman%2Fdp%2F1934451525%2F
 description: "Rolf Potts on Travel Tactics, Creating Time Wealth, and Lateral Thinking"

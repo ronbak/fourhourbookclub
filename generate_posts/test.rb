@@ -14,9 +14,6 @@ CSV.foreach('jekyll.csv') do |row|
 	description = row[10]
 	episodeUrl = row[11]
 
-
-
-
 		array = Array.new
 
 		array << "---"
@@ -25,14 +22,18 @@ CSV.foreach('jekyll.csv') do |row|
 		array << "title: " + "\"" + title + "\""
 		array << "worktype: \"Development\""
 		array << "date: " + date
-		array << "categories: project"
-
-		unless imageUrl.nil? || imageUrl == 0
-			array << "image-url: " + imageUrl
-		else
-			imageUrl = "book-cover-blank.jpg"
-			array << "image-url: " + imageUrl
+		
+		if categories.nil? || categories == 0
+			categories = "none"
 		end
+
+			array << "categories: " + categories
+
+		if imageUrl.nil? || imageUrl == 0
+			imageUrl = "book-cover-blank.jpg"
+		end
+
+		array << "image-url: " + imageUrl
 
 		array << "item-url: " + itemUrl
 		array << "description: " + "\"" + description + "\""

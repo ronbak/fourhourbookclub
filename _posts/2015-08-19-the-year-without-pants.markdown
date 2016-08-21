@@ -4,7 +4,7 @@ uid: item299
 title: "The Year Without Pants"
 worktype: "Development"
 date: 2015-08-19 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Year-Without-Pants-WordPress-com%2Fdp%2F1118660633%2F
 description: "Matt Mullenweg on Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies"

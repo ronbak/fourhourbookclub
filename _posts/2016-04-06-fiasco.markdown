@@ -4,7 +4,7 @@ uid: item68
 title: "Fiasco"
 worktype: "Development"
 date: 2016-04-06 01:01:01
-categories: project
+categories: book
 image-url: 51rr3-rmyCL._SY445_QL70_.jpg
 item-url: Loading...
 description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity"

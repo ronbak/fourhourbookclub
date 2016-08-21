@@ -4,7 +4,7 @@ uid: item15
 title: "Antifragile: Things That Gain from Disorder (Incerto)"
 worktype: "Development"
 date: 2016-05-29 01:01:01
-categories: project
+categories: book
 image-url: 41y%2B-2A1XZL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAntifragile-Things-That-Disorder-Incerto%2Fdp%2F0812979680%2F
 description: "The 5 Things I Did To Become a Better Investor"

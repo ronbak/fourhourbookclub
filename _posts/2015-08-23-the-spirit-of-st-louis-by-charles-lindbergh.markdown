@@ -4,7 +4,7 @@ uid: item295
 title: "The Spirit of St. Louis by Charles Lindbergh"
 worktype: "Development"
 date: 2015-08-23 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Spirit-Louis-Charles-Lindbergh%2Fdp%2F0743237056%2F
 description: "Tony Robbins and Peter Diamandis (XPRIZE) on the Magic of Thinking BIG"

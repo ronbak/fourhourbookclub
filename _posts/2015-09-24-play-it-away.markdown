@@ -4,7 +4,7 @@ uid: item263
 title: "Play it Away"
 worktype: "Development"
 date: 2015-09-24 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FPlay-It-Away-Workaholics-Anxiety%2Fdp%2F0615918174%2F
 description: "The Tim Ferriss Show, Episode 8: Chase Jarvis, Master Photographer"

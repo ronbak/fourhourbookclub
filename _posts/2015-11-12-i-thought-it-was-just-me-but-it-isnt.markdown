@@ -4,7 +4,7 @@ uid: item214
 title: "I Thought It Was Just Me (but it isn’t)"
 worktype: "Development"
 date: 2015-11-12 01:01:01
-categories: project
+categories: book
 image-url: 51dSc68kIeL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThought-Was-Just-but-isnt%2Fdp%2F1592403352%2F
 description: "Brené Brown on Vulnerability and Home Run TED Talks"

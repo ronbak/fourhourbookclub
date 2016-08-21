@@ -4,7 +4,7 @@ uid: item48
 title: "Stories and books by Denis Johnson"
 worktype: "Development"
 date: 2016-04-26 01:01:01
-categories: project
+categories: collection
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FDenis-Johnson%2Fe%2FB000AQ3FL0%2F
 description: "The Tim Ferriss Show, Episode 18: James Altucher on How to Say “No”, Fail Better, and Build Businesses"

@@ -4,7 +4,7 @@ uid: item294
 title: "The Singularity is Near by Ray Kurzweil"
 worktype: "Development"
 date: 2015-08-24 01:01:01
-categories: project
+categories: none
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Singularity-Is-Near-Transcend%2Fdp%2F0143037889%2F
 description: "Tony Robbins and Peter Diamandis (XPRIZE) on the Magic of Thinking BIG"
