@@ -1,11 +1,10 @@
 // this aint supposed to be private... just idiot proof
 var showcasePwd = "sesame";
 
-fadePageIn();
-
 $(document).ready(function(){
   bindProjectNavArrows();
   bindPasswordDetect();
+
 
   BackgroundCheck.init({
     targets: '.target',
