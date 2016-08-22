@@ -51,28 +51,8 @@ body, button, input, select, textarea {
   text-shadow: none;
 }
 
-a {
-  color: #00e;
-  -webkit-transition: color 200ms linear;
-  -moz-transition: color 200ms linear;
-  transition: color 200ms linear;
-}
 
-a:visited {
-  color: #551a8b;
-}
 
-a:hover {
-  color: #06e;
-}
-
-a:focus {
-  outline: thin dotted;
-}
-
-a:hover, a:active {
-  outline: 0;
-}
 
 abbr[title] {
   border-bottom: 1px dotted;
@@ -264,7 +244,7 @@ input:invalid, textarea:invalid {
 }
 
 p a{
-  text-decoration: underline;
+  
 }
 
 table {
@@ -299,10 +279,6 @@ td {
     
   }
 
-  a:active, a:visited {
-    color: #000;
-  }
-
   header {
     padding-top:30px;
     font-family: 'Libre Baskerville', serif;
@@ -322,6 +298,7 @@ td {
     position: relative;
     margin: 0 30px;
     min-height: 50px;
+    background-color: #FFF;
   }
 
   header h1, header .initials {
@@ -335,7 +312,9 @@ td {
   }
 
   h1 a {
-    font-size: 20px;
+    font-size: 30px;
+    color: #000 ;
+    font-family: 'Roboto Slab', serif;
   }
 
   header .initials {
@@ -771,6 +750,10 @@ td {
       padding: 15px 0 0 0;
     }
 
+    h1 a {
+      font-size: 15px;
+    }
+
     .projects {
       margin: 0 7.5px;
     }
@@ -866,10 +849,6 @@ td {
   }
 
   @media only screen and (max-width: 480px) {
-
-    header nav {
-      
-    }
 
     header nav.mobile-nav {
       display: block;

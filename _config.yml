@@ -1,6 +1,6 @@
-name: 
-description:
+name: Books Recommended on the Tim Ferriss Show
+description: "Fill up your reading list, with books recommended by guests on the Tim Ferriss Show podcast (and Tim himself!)."
 author: Ed Shelley
-analytics:
+analytics: UA-19619576-14
 exclude: [ _design, README ]
 baseurl: "/"

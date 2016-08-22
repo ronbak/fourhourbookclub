@@ -11,5 +11,5 @@ description: "Derek Sivers on Developing Confidence, Finding Happiness, and Sayi
 ---
 <a href="http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAudio-Technica-AT8035-Shotgun-Microphone%2Fdp%2FB000ZLOGCC%2F" target="blank"><img src="../../../../img/thumbs/book-cover-blank.jpg" class="prod-img"></a>
 <h2>AT8035 Microphone</h2>
-<p><a href="http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAudio-Technica-AT8035-Shotgun-Microphone%2Fdp%2FB000ZLOGCC%2F" target="blank">Get it on Amazon</a><p>
+<p><a class="btn btn-primary" href="http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAudio-Technica-AT8035-Shotgun-Microphone%2Fdp%2FB000ZLOGCC%2F" target="blank">View on Amazon</a><p>
 <p>Mentioned in: <a href="http://fourhourworkweek.com/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/" target="blank">Derek Sivers on Developing Confidence, Finding Happiness, and Saying “No” to Millions</a></p>

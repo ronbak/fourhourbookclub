@@ -1,7 +1,6 @@
 require 'csv'
 
 CSV.foreach('jekyll.csv') do |row|
-  
 
 	uid = row[0]
 	title = row[1]
@@ -27,7 +26,7 @@ CSV.foreach('jekyll.csv') do |row|
 			categories = "none"
 		end
 
-			array << "categories: " + categories
+		array << "categories: " + categories
 
 		if imageUrl.nil? || imageUrl == 0
 			imageUrl = "book-cover-blank.jpg"
@@ -44,7 +43,7 @@ CSV.foreach('jekyll.csv') do |row|
 		end
 
 		array << "<h2>" + title + "</h2>"
-		array << "<p><a href=\"" + itemUrl + "\" target=\"blank\">" "Get it on Amazon</a><p>"
+		array << "<p><a class=\"btn btn-primary\" href=\"" + itemUrl + "\" target=\"blank\">" "View on Amazon</a><p>"
 		array << "<p>Mentioned in: <a href=\"" + episodeUrl + "\" target=\"blank\">" + description + "</a></p>"
 
 		out_file = File.new((filename + ".markdown"), "w")
@@ -52,7 +51,5 @@ CSV.foreach('jekyll.csv') do |row|
 		out_file.puts(array.join("\n"))
 
 		out_file.close
-
-
 
 end
