@@ -870,7 +870,7 @@ QUnit.equiv = function () {
 
             "object": function (b, a) {
                 var i, j, loop;
-                var eq = true; // unless we can proove it
+                var eq = true; // unless we can prove it
                 var aProperties = [], bProperties = []; // collection of strings
 
                 // comparing constructors is more strict than using instanceof
