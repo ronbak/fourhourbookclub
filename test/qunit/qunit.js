@@ -254,7 +254,7 @@ var QUnit = {
 	 * Checks that the first two arguments are equal, with an optional message.
 	 * Prints out both actual and expected values.
 	 *
-	 * Prefered to ok( actual == expected, message )
+	 * Preferred to ok( actual == expected, message )
 	 *
 	 * @example equal( format("Received {0} bytes.", 2), "Received 2 bytes." );
 	 *
